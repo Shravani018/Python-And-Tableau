@@ -4,7 +4,7 @@ This repository showcases two end-to-end **data analytics projects** where Pytho
 
 ---
 
-## 🧠 Projects Overview
+##  Projects Overview
 
 ### 🏦 Blue Bank Loan Analysis
 Analyzed a retail bank’s loan portfolio to understand customer borrowing behavior and financial patterns.
@@ -15,7 +15,7 @@ Analyzed a retail bank’s loan portfolio to understand customer borrowing behav
 - Identification of trends and outliers affecting loan portfolios  
 - Interactive Tableau dashboard for business insights  
 
-📊 **Dashboard:**  
+ **Dashboard:**  
 https://public.tableau.com/app/profile/shravani.mahadeshwar/viz/BlueBank_16845221401200/Dashboard1
 
 ---
@@ -29,12 +29,12 @@ Performed sentiment analysis on textual data to evaluate public opinion and emot
 - Aggregation of sentiment results for visualization  
 - Tableau dashboard to explore sentiment distribution and trends  
 
-📊 **Dashboard:**  
+**Dashboard:**  
 https://public.tableau.com/app/profile/shravani.mahadeshwar/viz/BlogMeSentimentAnalysis_16845658940930/Dashboard1
 
 ---
 
-## 🛠️ Tools & Techniques
+## Tools & Techniques
 - **Python** (pandas, numpy)  
 - **Exploratory Data Analysis (EDA)**  
 - **Text Processing & Sentiment Analysis**  
@@ -43,7 +43,7 @@ https://public.tableau.com/app/profile/shravani.mahadeshwar/viz/BlogMeSentimentA
 
 ---
 
-## 🎯 Outcome
+##  Outcome
 These projects demonstrate the ability to:
 - Prepare and analyze structured and unstructured data  
 - Extract actionable insights through exploratory analysis  
