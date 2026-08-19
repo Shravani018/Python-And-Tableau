@@ -1,4 +1,4 @@
-# 📊 Python & Tableau Analytics Portfolio
+# 📊 [Python & Tableau Analytics Portfolio](https://public.tableau.com/app/profile/shravani.mahadeshwar/vizzes)
 
 This repository showcases two end-to-end **data analytics projects** where Python is used for data preparation and analysis, and Tableau is used for interactive dashboarding and insight delivery.
 
