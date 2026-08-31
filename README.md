@@ -1,4 +1,4 @@
-# 📊 [Python & Tableau Analytics Portfolio](https://public.tableau.com/app/profile/shravani.mahadeshwar/vizzes)
+# 📊 Python & Tableau Analytics Portfolio
 
 This repository showcases two end-to-end **data analytics projects** where Python is used for data preparation and analysis, and Tableau is used for interactive dashboarding and insight delivery.
 
@@ -6,7 +6,8 @@ This repository showcases two end-to-end **data analytics projects** where Pytho
 
 ##  Projects Overview
 
-### 🏦 Blue Bank Loan Analysis
+### 🏦 [Blue Bank Loan Analysis](https://public.tableau.com/app/profile/shravani.mahadeshwar/viz/BlueBank_16845221401200/Dashboard1)
+
 Analyzed a retail bank’s loan portfolio to understand customer borrowing behavior and financial patterns.
 
 **Key Work:**
@@ -15,12 +16,11 @@ Analyzed a retail bank’s loan portfolio to understand customer borrowing behav
 - Identification of trends and outliers affecting loan portfolios  
 - Interactive Tableau dashboard for business insights  
 
- **Dashboard:**  
-https://public.tableau.com/app/profile/shravani.mahadeshwar/viz/BlueBank_16845221401200/Dashboard1
 
 ---
 
-### 🗣️ BlogMe Sentiment Analysis
+### 🗣️ [BlogMe Sentiment Analysis](https://public.tableau.com/app/profile/shravani.mahadeshwar/viz/BlogMeSentimentAnalysis_16845658940930/Dashboard1)
+
 Performed sentiment analysis on textual data to evaluate public opinion and emotional tone.
 
 **Key Work:**
@@ -29,8 +29,6 @@ Performed sentiment analysis on textual data to evaluate public opinion and emot
 - Aggregation of sentiment results for visualization  
 - Tableau dashboard to explore sentiment distribution and trends  
 
-**Dashboard:**  
-https://public.tableau.com/app/profile/shravani.mahadeshwar/viz/BlogMeSentimentAnalysis_16845658940930/Dashboard1
 
 ---
 
